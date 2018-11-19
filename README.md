@@ -4,4 +4,5 @@ H2O is an in-memory platform for distributed, scalable machine learning. H2O use
 
 Data collection is easy. Decision making is hard. H2O makes it fast and easy to derive insights from your data through faster and better predictive modeling. H2O allows online scoring and modeling in a single platform.
 
-H2O-3 (this repository) is the third incarnation of H2O, and the successor to H2O-2.
+**Installing H2O.ai for Python**
+Please check http://docs.h2o.ai/h2o/latest-stable/h2o-docs/downloading.html
